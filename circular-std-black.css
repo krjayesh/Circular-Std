@@ -2,7 +2,7 @@
     font-family: 'Circular Std Black';
     font-style: normal;
     font-weight: 900;
-    src: local('Circular Std Black'), url('https://fonts.cdnfonts.com/s/14289/CircularStd-Black.woff') format('woff');
+    src: local('Circular Std Black'), url('/CircularStd-Black.woff') format('woff');
 }
 
 
