@@ -2,5 +2,5 @@
     font-family: 'Circular Std Bold';
     font-style: normal;
     font-weight: 400;
-    src: local('Circular Std Bold'), url('https://github.com/krjayesh/Circular-Std/blob/main/CircularStd-Bold.woff?raw=true') format('woff');
+    src: local('Circular Std Bold'), url('/CircularStd-Bold.woff') format('woff');
 }
